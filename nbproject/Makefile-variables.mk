@@ -12,16 +12,16 @@ CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux-x86
 CND_ARTIFACT_NAME_Debug=bigplg-cli
 CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/bigplg-cli
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Debug=cli.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/cli.tar
+CND_PACKAGE_NAME_Debug=log2cli.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/log2cli.tar
 # Release configuration
-CND_PLATFORM_Release=GNU-Linux-x86
-CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux-x86
-CND_ARTIFACT_NAME_Release=cli
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/cli
-CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Release=cli.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/cli.tar
+CND_PLATFORM_Release=None-Linux-x86
+CND_ARTIFACT_DIR_Release=dist/Release/None-Linux-x86
+CND_ARTIFACT_NAME_Release=log2cli
+CND_ARTIFACT_PATH_Release=dist/Release/None-Linux-x86/log2cli
+CND_PACKAGE_DIR_Release=dist/Release/None-Linux-x86/package
+CND_PACKAGE_NAME_Release=log2cli.tar
+CND_PACKAGE_PATH_Release=dist/Release/None-Linux-x86/package/log2cli.tar
 # looking-glass configuration
 CND_PLATFORM_looking-glass=GNU-Linux-x86
 CND_ARTIFACT_DIR_looking-glass=/bin

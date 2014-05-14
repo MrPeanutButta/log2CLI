@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<configurationDescriptor version="90">
+<configurationDescriptor version="94">
   <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
@@ -8,7 +8,7 @@
       <itemPath>include/cmdparser.h</itemPath>
       <itemPath>include/command_struct.h</itemPath>
       <itemPath>include/misc.h</itemPath>
-      <itemPath>../bgpd/include/tcp_client.h</itemPath>
+      <itemPath>include/tcp_client.h</itemPath>
       <itemPath>include/util.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
@@ -88,8 +88,6 @@
           </linkerLibItems>
         </linkerTool>
       </compileType>
-      <item path="../bgpd/include/tcp_client.h" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="cli.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="cli_main.cpp" ex="false" tool="1" flavor2="0">
@@ -103,6 +101,8 @@
       <item path="include/command_struct.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="include/misc.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/tcp_client.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="include/util.h" ex="false" tool="3" flavor2="0">
       </item>
@@ -135,8 +135,6 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
-      <item path="../bgpd/include/tcp_client.h" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="cli.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="cli_main.cpp" ex="false" tool="1" flavor2="0">
@@ -150,6 +148,8 @@
       <item path="include/command_struct.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="include/misc.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/tcp_client.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="include/util.h" ex="false" tool="3" flavor2="0">
       </item>
@@ -192,8 +192,6 @@
           </linkerLibItems>
         </linkerTool>
       </compileType>
-      <item path="../bgpd/include/tcp_client.h" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="cli.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="cli_main.cpp" ex="false" tool="1" flavor2="0">
@@ -207,6 +205,8 @@
       <item path="include/command_struct.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="include/misc.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/tcp_client.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="include/util.h" ex="false" tool="3" flavor2="0">
       </item>
